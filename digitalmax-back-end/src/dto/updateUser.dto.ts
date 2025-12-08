@@ -1,4 +1,4 @@
-import {IsString, IsOptional, IsNumber} from 'Class-validator'
+import {IsString, IsOptional, IsNumber} from 'class-validator'
 import { Type } from 'class-transformer';
 import { ValidateNested } from 'class-validator';
 export class actualizaCarrito{

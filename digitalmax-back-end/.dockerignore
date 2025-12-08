@@ -1,0 +1,15 @@
+# Directorios de dependencias
+node_modules
+.pnpm-store
+.pnpm
+.npm
+
+# Archivos de caché/log
+npm-debug.log
+.DS_Store
+*.log
+
+# Archivos de configuración local o temporales
+.env
+.local
+tmp/
